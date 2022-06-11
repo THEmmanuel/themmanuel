@@ -7,7 +7,7 @@ Software Engineer
 I'm a certified software engineer with 7 years of experience in IT. 5 years of experience as a software engineer. Freelancing since 2018. I currently focus on building front-end web and mobile experiences that perform and scale. Exploring open source as well. In my free time, I'm a prolific reader and an avid gamer with a wide array of interests.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [leunamme.dev](http://https://leunamme.dev/)
+* 🖥️  See my portfolio at [leunamme.dev](https://leunamme.dev/)
 * ✉️  You can contact me at [work@leunamme.dev](mailto:work@leunamme.dev)
 * 🚀  I'm currently working on [Pythagora Studio](http://https://twitter.com/pythagora_x)
 * 🧠  I'm learning C++, Rust, Solidity and some blockchain stuff
