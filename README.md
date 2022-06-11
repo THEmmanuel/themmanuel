@@ -9,7 +9,7 @@ I'm a certified software engineer with 7 years of experience in IT. 5 years of e
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [leunamme.dev](https://leunamme.dev/)
 * ✉️  You can contact me at [work@leunamme.dev](mailto:work@leunamme.dev)
-* 🚀  I'm currently working on [Pythagora Studio](http://https://twitter.com/pythagora_x)
+* 🚀  I'm currently working on [Pythagora Studio](https://twitter.com/pythagora_x)
 * 🧠  I'm learning C++, Rust, Solidity and some blockchain stuff
 * 🤝  I'm open to collaborating on interesting stuff!
 * ⚡  Live life, embrace reality. We suffer more in imagination than in reality.
